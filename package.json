@@ -1,0 +1,7 @@
+{
+  "name": "giggle-yarn",
+  "packageManager": "yarn@3.2.1",
+  "dependencies": {
+    "stream-chat": "^6.5.1"
+  }
+}
